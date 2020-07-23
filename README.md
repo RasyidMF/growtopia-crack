@@ -9,7 +9,7 @@ Testing at : <b>0x64 Bit</b><br>
 This application that i uploaded is the result of patch bytes using IDA PRO and is always tested before being released.<br>
 This application originally from GrowtopiaGame.com we just edit some instruction for feature.<br>
 <hr>
-<b>(23/07/2020) : </b>Growtopia Crack.exe can't do "SAVE" file for "save.dat", before you launching Growtopia Crack make sure backup your save.dat and set GrowID / Password into random text, <b>if you delete it, your setting will be reseted and never been saved!</b>.
+<b>(23/07/2020) : </b>Growtopia Crack.exe can't do "SAVE" file for "save.dat", before you launching Growtopia Crack make sure backup your save.dat and set GrowID / Password into random text, <b>if you delete it, your setting will be reset!</b>.
 
 # Where i can find Save.dat ?
 Press Win + R -> %temp% -> Enter -> Back into folder "Local" -> Search Growtopia
