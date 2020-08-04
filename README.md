@@ -15,7 +15,7 @@ This application originally from GrowtopiaGame.com we just edit some instruction
 Press Win + R -> %temp% -> Enter -> Back into folder "Local" -> Search Growtopia
 
 # Tutorial
-<b>Open "Install.bat"</b>and wait for while untill opening the Growtopia Folder.
+<b>Open "Install.bat"</b> and wait for while untill opening the Growtopia Folder.
 
 # Feature
 <li>Allowed you to open more than 1 Growtopia without any application <b>(22/07/2020)</b></li>
