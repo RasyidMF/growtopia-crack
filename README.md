@@ -2,7 +2,7 @@
 Created by : <a href="https://www.facebook.com/RasyidMFS"><b>RasyidMF</b></a><br>
 Youtube Channel : <b><a href="https://www.youtube.com/channel/UCfCZ5cZsv33PUCo09Q5KXCA">Click Here</a></b><br>
 Discord : <b><a href="https://discord.gg/gw25J5n">Click Here</a></b><br>
-Version Game : <b>V3.39</b><br>
+Version Game : <b>V3.40</b><br>
 Testing at : <b>0x64 Bit</b><br>
 
 # Note
@@ -24,3 +24,4 @@ Just place <b>Growtopia Crack.exe</b> into your Growtopia folder and create <b>S
 # Update
 <li>V3.38 released! (22/07/2020)</li>
 <li>V3.39 released! (04/08/2020)</li>
+<li>V3.40 released! (20/08/2020)</li>
